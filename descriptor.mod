@@ -1,0 +1,15 @@
+version="1.0"
+replace_path="history/states"
+replace_path="map/strategicregions"
+replace_path="history/units"
+replace_path="common/ai_strategy"
+tags={
+	"Alternative History"
+	"Events"
+	"Map"
+	"National Focuses"
+	"Technologies"
+	"Ideologies"
+}
+name="War in creation"
+supported_version="1.14.*"
